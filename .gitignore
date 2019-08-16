@@ -1,0 +1,4 @@
+resume_*.json
+!resume_<lang>.json
+node_modules
+output/*

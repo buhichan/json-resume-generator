@@ -1,0 +1,130 @@
+{
+    "$schema": "https://github.com/jsonresume/resume-schema/raw/v1.0.0/schema.json",
+    "basics": {
+        "name":"xxx",
+        "birthPlace": "xxx",
+        "birthday": "1992-01-01",
+        "label": "前端工程师",
+        "currentLocation": {
+            "lat": 31.263516,
+            "long": 121.517406
+        },
+        "phone": "+86 930292039203",
+        "profiles": [
+            {
+                "network": "github",
+                "url": "https://github.com/xxx/",
+                "username": "xxx"
+            }
+        ],
+        "summary": "前端开发, nodejs, typescript, react",
+        "url": "https://xxx.github.io/"
+    },
+    "education": [
+        {
+            "institution": "xxx",
+            "startDate": "2009-09",
+            "endDate": "2013-06",
+            "location": {
+                "lat": 31.021362,
+                "long": 121.429991
+            },
+            "area": "xxx",
+            "studyType": "全日制本科"
+        }
+    ],
+    "skills": [
+        {
+            "name": "javascript(前端)",
+            "proficiency": "熟练",
+            "keywords": ["typescript","react","rxjs","webgl","canvas","webpack","javascript","css3","html5"]
+        },
+        {
+            "name": "后端开发",
+            "proficiency": "一般",
+            "keywords": ["nodejs","mysql","nginx","redis","mongodb"]
+        },
+        {
+            "name": "运维",
+            "proficiency": "一般",
+            "keywords": ["linux","centos","kubernetes","docker","docker-compose"]
+        },
+        {
+            "name": "版本控制",
+            "proficiency": "熟练",
+            "keywords": ["git","github","gitlab"]
+        }
+    ],
+    "work": [
+        {
+            "startDate": "2015-07",
+            "endDate": "2015-11",
+            "name": "xxx",
+            "position": "前端 & PHP开发"
+        },
+        {
+            "startDate": "2015-11",
+            "endDate": "2016-05",
+            "name": "xxx",
+            "position": "前端 & PHP开发"
+        },
+        {
+            "startDate": "2016-07",
+            "name":"xxx",
+            "position": "前端 & Nodejs开发"
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "level": "会话"
+        },
+        {
+            "language": "Chinese",
+            "level": "母语"
+        }
+    ],
+    "projects": [
+        {
+            "name":"xxxx",
+            "type": "HTML5 web应用",
+            "entity": "xxxx",
+            "highlights": ["data visualization"],
+            "keywords": ["react","redux","typescript","rxjs","echarts"],
+            "description": "xxxx",
+            "roles": ["xxx","xxx"]
+        },
+        {
+            "name":"xxx",
+            "type": "xxx",
+            "entity": "xxx",
+            "keywords": ["react","typescript","rxjs","ant.design","nodejs","mysql","mongodb"],
+            "description": "xxx",
+            "roles": ["前端开发","Nodejs开发"]
+        },
+        {
+            "name":"xxx",
+            "type":"xxx",
+            "entity": "xxx",
+            "keywords": ["react","typescript","rxjs","ant.design","nodejs","mysql","redis","pm2"],
+            "description": "xxx",
+            "roles": ["xxx","xxxx"]
+        },
+        {
+            "name":"xxxx",
+            "type": "HTML5 应用 (Web)",
+            "entity": "xxxx",
+            "keywords": ["react","typescript","rxjs"],
+            "highlights": ["network monitoring","data visualization"],
+            "description": "xxxxx",
+            "roles": ["前端开发"]
+        },
+        {
+            "name":"xxxxx",
+            "type":"HTML5 应用 (Web)",
+            "keywords": ["react","typescript"],
+            "roles": ["前端开发"],
+            "description": "xxxxx"
+        }
+    ]
+}
